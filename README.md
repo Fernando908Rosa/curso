@@ -1,0 +1,2 @@
+# curso
+praticas utilizando enums
