@@ -6,7 +6,6 @@ import entities.OrderEnumeracao;
 import enums.OrderStatus;
 
 public class ProgramOrder {
-
 	
 	public static void main(String[] args) {
 		
